@@ -1,4 +1,22 @@
+###```txt
+   Constant Points System: Points remain constant for all positions.
+   Linear Decrease System: Points decrease linearly as the solver's position increases.
+   Percentage Decrease System: Points decrease exponentially based on a percentage.
+   Exponential Decrease System: Points decrease exponentially with each solver's position.
+   Quadratic Decrease System: Points decrease quadratically as the solver's position increases.
+   Bonus-Malus System: Bonus for odd positions, Malus for even positions.
+   High-Medium-Low System: Different points for the top, middle, and bottom positions.
+   Randomized Points System: Points are randomly assigned to each position.
+   Fixed Steps System: Points decrease in fixed steps as the solver's position increases.
+   Geometric Progression System: Points form a geometric progression.
+   Odd-Even System: Odd positions get a bonus, even positions get a malus.
+   Descending Steps System: Points decrease in descending steps.
+   Uniform Steps System: Points decrease in uniform steps as the solver's position increases.
+```###
+
+
 Certainly! Let's extend the examples to include a top 10 users list for each Challenge Point System:
+
 
 ### Challenge Point Systems Explained with Top 10 Users:
 
