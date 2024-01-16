@@ -1,4 +1,4 @@
-###```txt
+```txt
    Constant Points System: Points remain constant for all positions.
    Linear Decrease System: Points decrease linearly as the solver's position increases.
    Percentage Decrease System: Points decrease exponentially based on a percentage.
@@ -12,7 +12,7 @@
    Odd-Even System: Odd positions get a bonus, even positions get a malus.
    Descending Steps System: Points decrease in descending steps.
    Uniform Steps System: Points decrease in uniform steps as the solver's position increases.
-```###
+```
 
 
 Certainly! Let's extend the examples to include a top 10 users list for each Challenge Point System:
